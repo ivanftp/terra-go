@@ -1,4 +1,4 @@
-module github.com/terra-money/terra.go
+module github.com/ivanftp/terra-go
 
 go 1.17
 

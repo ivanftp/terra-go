@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/tx/signing"
 	authsigning "github.com/cosmos/cosmos-sdk/x/auth/signing"
 
-	"github.com/terra-money/terra.go/key"
+	"github.com/ivanftp/terra-go/key"
 )
 
 func init() {

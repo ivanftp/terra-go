@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/terra-money/terra.go/key"
-	"github.com/terra-money/terra.go/msg"
-	"github.com/terra-money/terra.go/tx"
+	"github.com/ivanftp/terra-go/key"
+	"github.com/ivanftp/terra-go/msg"
+	"github.com/ivanftp/terra-go/tx"
 )
 
 func Test_Transaction(t *testing.T) {

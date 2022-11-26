@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/terra-money/terra.go/key"
-	"github.com/terra-money/terra.go/msg"
-	"github.com/terra-money/terra.go/tx"
+	"github.com/ivanftp/terra-go/key"
+	"github.com/ivanftp/terra-go/msg"
+	"github.com/ivanftp/terra-go/tx"
 
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 
